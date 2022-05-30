@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56618639031",
+    "firebase_url": "https://arat-c9bd2-default-rtdb.firebaseio.com",
+    "project_id": "arat-c9bd2",
+    "storage_bucket": "arat-c9bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56618639031:android:e63ca19bac8a48a7013732",
+        "android_client_info": {
+          "package_name": "com.arat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56618639031-iookpl2m4t68el9pbt83o1s6s53k5hb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRgns52FW-d9TgT_EluXait8Nz7NDG_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56618639031-iookpl2m4t68el9pbt83o1s6s53k5hb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
