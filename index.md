@@ -13,15 +13,16 @@
 <script type="text/javascript">
 //EDIT UNDER THIS ONLY
 
-const  firebaseConfig = {
-apiKey: "AIzaSyBcNCDPrPV5kgloKhVN6cLDuSu7OeL-Ijs",
-authDomain: "arat-c9bd2.firebaseapp.com",
-databaseURL: "https://arat-c9bd2-default-rtdb.firebaseio.com",
-projectId: "arat-c9bd2",
-storageBucket: "arat-c9bd2.appspot.com",
-messagingSenderId: "56618639031",
-appId: "1:56618639031:web:7c5d5fc4c3db26c8013732"
-}; 
+const firebaseConfig = {
+  apiKey: "AIzaSyBcNCDPrPV5kgloKhVN6cLDuSu7OeL-Ijs",
+  authDomain: "arat-c9bd2.firebaseapp.com",
+  databaseURL: "https://arat-c9bd2-default-rtdb.firebaseio.com",
+  projectId: "arat-c9bd2",
+  storageBucket: "arat-c9bd2.appspot.com",
+  messagingSenderId: "56618639031",
+  appId: "1:56618639031:web:7c5d5fc4c3db26c8013732",
+  measurementId: "G-7NKKWYW9FW"
+};
 
 //DON'T EDIT BELOW THIS
 
