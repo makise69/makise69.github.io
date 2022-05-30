@@ -16,7 +16,7 @@
 const  firebaseConfig = {
 apiKey: "AIzaSyBcNCDPrPV5kgloKhVN6cLDuSu7OeL-Ijs",
 authDomain: "arat-c9bd2.firebaseapp.com",
-databaseURL: "[DATABSE URL](https://arat-c9bd2-default-rtdb.firebaseio.com)",
+databaseURL: "https://arat-c9bd2-default-rtdb.firebaseio.com",
 projectId: "arat-c9bd2",
 storageBucket: "arat-c9bd2.appspot.com",
 messagingSenderId: "56618639031",
